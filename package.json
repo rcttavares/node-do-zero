@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/rcttavares/node-do-zero#readme",
   "dependencies": {
-    "fastify": "^4.23.2",
+    "fastify": "^4.28.1",
     "postgres": "^3.3.5"
   },
   "devDependencies": {
